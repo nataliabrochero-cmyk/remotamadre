@@ -293,7 +293,7 @@ export function Home() {
               }}
             >
               <img 
-                src="/volver-a-mi.png"
+                src="https://i.imgur.com/aoq9dnJ.jpeg"
                 alt="Diario Volver a mí"
                 style={{ 
                   width: '100%',
