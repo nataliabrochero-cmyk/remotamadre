@@ -1,0 +1,78 @@
+/* Mobile Responsive Styles */
+
+/* Tablet Breakpoint - 2 column product grid */
+@media (max-width: 1024px) and (min-width: 769px) {
+  /* Product cards - 2 columns with third card centered */
+  .products-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  /* Center the third card */
+  .products-grid > div:nth-child(3) {
+    grid-column: 1 / -1;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Navigation - stack vertically */
+  nav .footer-top {
+    flex-direction: column !important;
+    gap: 16px !important;
+    align-items: flex-start !important;
+  }
+
+  /* Hero Section - reduced padding */
+  .hero-section {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+  }
+
+  /* Hero Headline - smaller font size */
+  .hero-headline {
+    font-size: 2rem !important;
+    line-height: 1.2 !important;
+  }
+
+  /* All sections - reduced padding */
+  section {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+
+  /* Navigation - reduced padding */
+  nav {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+
+  /* Product cards - stack vertically */
+  .products-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Quién Soy - stack vertically */
+  .quien-soy-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .quien-soy-image {
+    justify-content: center !important;
+  }
+
+  /* Footer - stack vertically */
+  footer .flex {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+
+  /* Prevent text overflow */
+  * {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
