@@ -276,7 +276,7 @@ export function Tienda() {
               }}
             >
               <img 
-                src="https://images.unsplash.com/photo-1504520169123-768da2d62b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxqb3VybmFsJTIwbm90ZWJvb2slMjBtaW5pbWFsJTIwYWVzdGhldGljfGVufDF8fHx8MTc3NTUxNDM0NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="/volver-a-mi.png"
                 alt="Diario Volver a mí"
                 style={{ 
                   width: '100%',
@@ -322,7 +322,7 @@ export function Tienda() {
                 $15
               </p>
               <a 
-                href="https://remotamadre.gumroad.com/l/gnzbqv"
+                href="https://remotamadre.gumroad.com/l/diario-volverami"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ 
