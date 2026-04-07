@@ -2,7 +2,6 @@ import { createBrowserRouter } from "react-router";
 import { Root } from "./Root";
 import { Home } from "./pages/Home";
 import { SobreMi } from "./pages/SobreMi";
-import { Shop } from "./pages/Shop";
 import { Tienda } from "./pages/Tienda";
 import { NotFound } from "./pages/NotFound";
 import { ErrorBoundary } from "./components/ErrorBoundary";
