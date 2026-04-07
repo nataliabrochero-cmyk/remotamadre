@@ -152,7 +152,7 @@ export function Home() {
                   marginBottom: '16px'
                 }}
               >
-                $8
+                $10
               </p>
               <a 
                 href="https://remotamadre.gumroad.com/l/afiches-emocionales"
@@ -185,7 +185,7 @@ export function Home() {
                   marginTop: '8px'
                 }}
               >
-                Tienda en Gumroad
+                *Tienda en Gumroad
               </p>
             </div>
 
@@ -244,7 +244,7 @@ export function Home() {
                   marginBottom: '16px'
                 }}
               >
-                $8
+                $10
               </p>
               <a 
                 href="https://remotamadre.gumroad.com/l/afiches-educativos"
@@ -277,7 +277,7 @@ export function Home() {
                   marginTop: '8px'
                 }}
               >
-                Tienda en Gumroad
+                *Tienda en Gumroad
               </p>
             </div>
 
@@ -336,7 +336,7 @@ export function Home() {
                   marginBottom: '16px'
                 }}
               >
-                $12
+                $15
               </p>
               <a 
                 href="https://remotamadre.gumroad.com/l/gnzbqv"
@@ -369,7 +369,7 @@ export function Home() {
                   marginTop: '8px'
                 }}
               >
-                Tienda en Gumroad
+                *Tienda en Gumroad
               </p>
             </div>
           </div>
