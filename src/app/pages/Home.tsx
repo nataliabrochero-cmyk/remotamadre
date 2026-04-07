@@ -18,8 +18,7 @@ export function Home() {
             }}
           >
             <span style={{ fontWeight: 700, color: '#C94F2C' }}>
-              Soy una amiga que viene a darte una mano y a{' '}
-            </span>
+            Soy una <span style={{ borderBottom: '3px solid #C94F2C', paddingBottom: '2px' }}>amiga</span> que viene a darte una mano y a{' '} </span>
             <span style={{ fontWeight: 400, fontStyle: 'italic', color: '#C4517A' }}>
               hacerte la vida más fácil
             </span>
