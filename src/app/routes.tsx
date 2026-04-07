@@ -21,10 +21,6 @@ export const router = createBrowserRouter([
         Component: SobreMi
       },
       { 
-        path: "shop", 
-        Component: Shop
-      },
-      { 
         path: "tienda", 
         Component: Tienda
       }
